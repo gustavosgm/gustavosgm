@@ -1,6 +1,6 @@
 ## Gustavo Soares Gama Maldonado
 
-Estudante de Ciência da Computação na Universidade Federal do ABC (UFABC), em busca de estágio em desenvolvimento de software, com foco em back-end (Python e Node.js). Também tenho interesse em dados, cibersegurança e inteligência artificial.
+Estudante de Ciência da Computação na Universidade Federal do ABC (UFABC), em busca de estágio em desenvolvimento de software, com foco em back-end (Python e Node.js). 
 
 São Paulo, SP | Inglês avançado (EF SET C1)
 
